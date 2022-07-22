@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Parker Pack
 - 
-- 👀 I’m interested in becoming a Game Developer in Level Design
-- 🌱 I’m currently learning CSS, Node, & JS, 
-- 💞️ I’m looking to collaborate on any beginner startup projects to better master my skills.
+- 👀 I’m interested in becoming a Game Developer in Level Design.
+- 🌱 I’m currently learning CSS, JS, MongoDB 
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/parker-pack-6955aa177/
 
