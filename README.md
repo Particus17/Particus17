@@ -7,5 +7,5 @@
 
 
 - 📫 My LinkedIn https://www.linkedin.com/in/parker-pack-6955aa177/
-- 📫 My Twitter https://twitter.com/ParkerIRL
+- 📫 My Twitter https://twitter.com/ParkerIRL_ (ParkerIRL_)
 
