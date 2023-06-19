@@ -8,5 +8,6 @@
 
 - 🌱 I believe that life is meant to be an adventure!
 
-![readme](https://github.com/Particus17/Particus17/assets/95663799/c4ec15ab-7da0-45f0-9f63-f7c2256e3bb6)
+![readme](https://github.com/Particus17/Particus17/assets/95663799/cb534d7c-9276-4d79-91b2-68cde64c96bf)
+
 
